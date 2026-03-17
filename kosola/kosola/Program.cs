@@ -12,3 +12,8 @@ int CalculateAverage(int[] values)
     }
     return sum/values.Length;
 }
+
+int CalculateMax(int[] values)
+{
+    return 1;
+}
