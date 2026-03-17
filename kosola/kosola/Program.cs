@@ -22,5 +22,3 @@ int CalculateMin(int[] values)
 {
     {  return 0; }
 }
-
-# conflicttttt
