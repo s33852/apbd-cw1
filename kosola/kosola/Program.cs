@@ -4,5 +4,11 @@ Console.WriteLine("new line");
 
 int CalculateAverage(int[] values)
     {
-    return 1;
+    int sum = 0;
+
+    for (int i = 0; i < values.Length; i++)
+    {
+        sum += values[i];
+    }
+    return sum/values.Length;
 }
