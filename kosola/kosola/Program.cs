@@ -23,4 +23,4 @@ int CalculateMin(int[] values)
     {  return 0; }
 }
 
-Console.WriteLine("zmianaaaaa");
+# conflicttttt
