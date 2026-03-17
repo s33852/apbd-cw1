@@ -17,4 +17,8 @@ int CalculateMax(int[] values)
 {
     return 1;
 }
-# zmiana w kodzie 
+
+int CalculateMin(int[] values)
+{
+    {  return 0; }
+}
